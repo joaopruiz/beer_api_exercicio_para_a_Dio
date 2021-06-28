@@ -9,5 +9,5 @@ public class BeerstockApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BeerstockApplication.class, args);
 	}
-	//teste de commit
+	//teste de commit 1
 }
